@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	keepertest "github.com/blackfury-zone/blackfury/testutil/keeper"
-	"github.com/blackfury-zone/blackfury/x/voter/keeper"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	keepertest "github.com/fanfury-sports/blackfury/testutil/keeper"
+	"github.com/fanfury-sports/blackfury/x/voter/keeper"
+	"github.com/fanfury-sports/blackfury/x/voter/types"
 )
 
 func setupMsgServer(t testing.TB) (types.MsgServer, context.Context) {

@@ -2,8 +2,8 @@ package gauge
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/gauge/keeper"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
+	"github.com/fanfury-sports/blackfury/x/gauge/keeper"
+	"github.com/fanfury-sports/blackfury/x/gauge/types"
 )
 
 // InitGenesis initializes the capability module's state from a provided genesis

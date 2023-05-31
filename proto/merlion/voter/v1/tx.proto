@@ -1,7 +1,0 @@
-syntax = "proto3";
-package blackfury.voter.v1;
-
-option go_package = "github.com/blackfury-zone/blackfury/x/voter/types";
-
-// Msg defines the Msg service.
-service Msg {}

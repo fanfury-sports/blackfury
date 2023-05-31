@@ -1,7 +1,0 @@
-syntax = "proto3";
-package blackfury.erc20.v1;
-
-option go_package = "github.com/blackfury-zone/blackfury/x/erc20/types";
-
-// Msg defines the erc20 Msg service.
-service Msg {}

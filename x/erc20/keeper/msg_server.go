@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	"github.com/fanfury-sports/blackfury/x/erc20/types"
 )
 
 type msgServer struct {

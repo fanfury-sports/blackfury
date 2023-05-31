@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
-	blacktypes "github.com/blackfury-zone/blackfury/types"
+	blacktypes "github.com/fanfury-sports/blackfury/types"
 	"github.com/stretchr/testify/require"
 )
 

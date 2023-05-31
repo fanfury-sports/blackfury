@@ -2,8 +2,8 @@ package client
 
 import (
 	govclient "github.com/cosmos/cosmos-sdk/x/gov/client"
-	"github.com/blackfury-zone/blackfury/x/maker/client/cli"
-	"github.com/blackfury-zone/blackfury/x/maker/client/rest"
+	"github.com/fanfury-sports/blackfury/x/maker/client/cli"
+	"github.com/fanfury-sports/blackfury/x/maker/client/rest"
 )
 
 var (

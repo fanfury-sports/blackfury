@@ -7,8 +7,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/crypto/keys/secp256k1"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	fuzz "github.com/google/gofuzz"
-	"github.com/blackfury-zone/blackfury/x/oracle"
-	"github.com/blackfury-zone/blackfury/x/oracle/types"
+	"github.com/fanfury-sports/blackfury/x/oracle"
+	"github.com/fanfury-sports/blackfury/x/oracle/types"
 	"github.com/stretchr/testify/require"
 )
 

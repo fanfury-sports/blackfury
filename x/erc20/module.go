@@ -17,9 +17,9 @@ import (
 	cdctypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/blackfury-zone/blackfury/x/erc20/client/cli"
-	"github.com/blackfury-zone/blackfury/x/erc20/keeper"
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	"github.com/fanfury-sports/blackfury/x/erc20/client/cli"
+	"github.com/fanfury-sports/blackfury/x/erc20/keeper"
+	"github.com/fanfury-sports/blackfury/x/erc20/types"
 )
 
 var (

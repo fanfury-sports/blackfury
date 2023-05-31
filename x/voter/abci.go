@@ -5,8 +5,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/telemetry"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/voter/keeper"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	"github.com/fanfury-sports/blackfury/x/voter/keeper"
+	"github.com/fanfury-sports/blackfury/x/voter/types"
 )
 
 // EndBlocker is called at the end of every block

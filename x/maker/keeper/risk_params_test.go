@@ -2,7 +2,7 @@ package keeper_test
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/maker/types"
+	"github.com/fanfury-sports/blackfury/x/maker/types"
 )
 
 func (suite *KeeperTestSuite) TestSetGetBackingRiskParams() {

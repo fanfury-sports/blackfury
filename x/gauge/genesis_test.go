@@ -3,10 +3,10 @@ package gauge_test
 import (
 	"testing"
 
-	keepertest "github.com/blackfury-zone/blackfury/testutil/keeper"
-	"github.com/blackfury-zone/blackfury/testutil/nullify"
-	"github.com/blackfury-zone/blackfury/x/gauge"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
+	keepertest "github.com/fanfury-sports/blackfury/testutil/keeper"
+	"github.com/fanfury-sports/blackfury/testutil/nullify"
+	"github.com/fanfury-sports/blackfury/x/gauge"
+	"github.com/fanfury-sports/blackfury/x/gauge/types"
 	"github.com/stretchr/testify/require"
 )
 

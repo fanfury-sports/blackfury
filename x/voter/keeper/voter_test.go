@@ -2,7 +2,7 @@ package keeper_test
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	blacktypes "github.com/blackfury-zone/blackfury/types"
+	blacktypes "github.com/fanfury-sports/blackfury/types"
 )
 
 func (suite *KeeperTestSuite) TestKeeper_CreateGauge() {

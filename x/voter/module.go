@@ -16,9 +16,9 @@ import (
 	cdctypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/blackfury-zone/blackfury/x/voter/client/cli"
-	"github.com/blackfury-zone/blackfury/x/voter/keeper"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	"github.com/fanfury-sports/blackfury/x/voter/client/cli"
+	"github.com/fanfury-sports/blackfury/x/voter/keeper"
+	"github.com/fanfury-sports/blackfury/x/voter/types"
 )
 
 var (

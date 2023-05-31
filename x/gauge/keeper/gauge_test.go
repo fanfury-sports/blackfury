@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	blacktypes "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
-	vetypes "github.com/blackfury-zone/blackfury/x/ve/types"
+	blacktypes "github.com/fanfury-sports/blackfury/types"
+	"github.com/fanfury-sports/blackfury/x/gauge/types"
+	vetypes "github.com/fanfury-sports/blackfury/x/ve/types"
 )
 
 func (suite *KeeperTestSuite) TestKeeper_CreateGauge() {

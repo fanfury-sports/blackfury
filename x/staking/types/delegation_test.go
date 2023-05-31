@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/app"
-	"github.com/blackfury-zone/blackfury/x/staking/types"
+	"github.com/fanfury-sports/blackfury/app"
+	"github.com/fanfury-sports/blackfury/x/staking/types"
 	"github.com/stretchr/testify/require"
 )
 

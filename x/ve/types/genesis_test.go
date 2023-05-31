@@ -3,7 +3,7 @@ package types_test
 import (
 	"testing"
 
-	"github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/fanfury-sports/blackfury/x/ve/types"
 	"github.com/stretchr/testify/require"
 )
 

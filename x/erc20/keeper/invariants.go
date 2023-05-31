@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	blackfury "github.com/fanfury-sports/blackfury/types"
+	"github.com/fanfury-sports/blackfury/x/erc20/types"
 )
 
 // RegisterInvariants registers the erc20 module invariants

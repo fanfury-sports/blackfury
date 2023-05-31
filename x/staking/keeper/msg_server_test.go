@@ -5,10 +5,10 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
-	"github.com/blackfury-zone/blackfury/x/staking/keeper"
-	"github.com/blackfury-zone/blackfury/x/staking/types"
-	vekeeper "github.com/blackfury-zone/blackfury/x/ve/keeper"
-	vetypes "github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/fanfury-sports/blackfury/x/staking/keeper"
+	"github.com/fanfury-sports/blackfury/x/staking/types"
+	vekeeper "github.com/fanfury-sports/blackfury/x/ve/keeper"
+	vetypes "github.com/fanfury-sports/blackfury/x/ve/types"
 )
 
 func (suite *KeeperTestSuite) TestVeDelegate() {

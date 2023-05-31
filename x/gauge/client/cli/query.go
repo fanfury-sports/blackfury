@@ -6,7 +6,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
+	"github.com/fanfury-sports/blackfury/x/gauge/types"
 	"github.com/spf13/cobra"
 )
 

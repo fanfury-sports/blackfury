@@ -2,7 +2,7 @@ package keeper_test
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/fanfury-sports/blackfury/x/ve/types"
 )
 
 func (suite *KeeperTestSuite) TestKeeper_SetSlopeChange_GetSlopeChange() {

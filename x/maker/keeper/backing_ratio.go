@@ -2,8 +2,8 @@ package keeper
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/maker/types"
+	blackfury "github.com/fanfury-sports/blackfury/types"
+	"github.com/fanfury-sports/blackfury/x/maker/types"
 )
 
 // AdjustBackingRatio dynamically adjusts the backing ratio, according to black price change.

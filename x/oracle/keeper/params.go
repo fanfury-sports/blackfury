@@ -2,7 +2,7 @@ package keeper
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/oracle/types"
+	"github.com/fanfury-sports/blackfury/x/oracle/types"
 )
 
 // GetParams get all parameters as types.Params.

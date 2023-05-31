@@ -2,8 +2,8 @@ package keeper_test
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	blacktypes "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
+	blacktypes "github.com/fanfury-sports/blackfury/types"
+	"github.com/fanfury-sports/blackfury/x/gauge/types"
 )
 
 func (suite *KeeperTestSuite) TestBribe_Deposit() {

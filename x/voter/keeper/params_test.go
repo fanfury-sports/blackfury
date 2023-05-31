@@ -3,8 +3,8 @@ package keeper_test
 import (
 	"testing"
 
-	testkeeper "github.com/blackfury-zone/blackfury/testutil/keeper"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	testkeeper "github.com/fanfury-sports/blackfury/testutil/keeper"
+	"github.com/fanfury-sports/blackfury/x/voter/types"
 	"github.com/stretchr/testify/require"
 )
 

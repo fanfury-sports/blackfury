@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	blacktypes "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	blacktypes "github.com/fanfury-sports/blackfury/types"
+	"github.com/fanfury-sports/blackfury/x/vesting/types"
 )
 
 func (suite *KeeperTestSuite) TestKeeper_AllocateAtGenesis() {
